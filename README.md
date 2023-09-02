@@ -1,4 +1,4 @@
-# Pancreatic cnacer image detection model 
+# Pancreatic cancer image detection model 
 ## MRI images detection model for medical diagnosis
 
 <p>Cancer is a group of diseases that are defined by abnormal cell proliferation and can spread to other parts of the body.
